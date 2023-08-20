@@ -20,6 +20,8 @@ Why Slingshot?
 5. **Working example app** - The included example app shows how this all works together.
 6. **Automated production build** - Type `npm run build` to do all this:
 
+7. 
+
 [![React Slingshot Production Build](https://img.youtube.com/vi/qlfDLsX-J0U/0.jpg)](https://www.youtube.com/watch?v=qlfDLsX-J0U)
 
 # Get Started
